@@ -1,2 +1,2 @@
-# buwa
+# Buwa
 ART MOVEMENT
